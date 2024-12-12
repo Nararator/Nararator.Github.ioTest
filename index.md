@@ -22,7 +22,7 @@ I’m excited to continue learning and growing in cybersecurity and look forward
 
 *   CompTIA Network +
 
-      ![CompTIA Network + Logo](assets/images/certificate.png)
+      ![CompTIA Network + Logo](assets/images/Certificate.pdf.png)
 
 *   Certificate 2
 *   Certificate 3
